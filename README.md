@@ -6,7 +6,6 @@ It generates coding using the APIs in an appropriate way, allowing interactivity
 Page: https://seevsk.github.io/album-list/
 
 Contenido:
-Uso de las APIs
 •	Fetch API
 •	API intersection observer
 •	API File
